@@ -1,2 +1,1 @@
-rvm 1.9.2@rails3
-rvm use [email_address]
+rvm --create use 1.9.2@rails3
